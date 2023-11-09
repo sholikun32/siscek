@@ -796,5 +796,13 @@ section {
   font-size: 13px;
 }
 
+.tableauPlaceholder {
+        border-radius: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+
 
 
